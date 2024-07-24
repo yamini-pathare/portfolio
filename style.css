@@ -1,0 +1,13 @@
+body {
+  background-color: rgb(237, 242, 242);
+}
+h1 {
+  color: rgb(9, 9, 10);
+}
+table {
+    width: 100%;
+  }
+  
+  th {
+    height: 70px;
+  }
